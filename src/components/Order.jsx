@@ -8,7 +8,7 @@ import {
   FaCreditCard
 } from "react-icons/fa";
 
-const API_BASE_URL = "https://back-twxq.onrender.com";
+const API_BASE_URL = "https://ankit-master.onrender.com";
 
 function Profile() {
   const [selectedLoanType, setSelectedLoanType] = useState(null);
@@ -177,3 +177,4 @@ function Profile() {
 }
 
 export default Profile;
+
