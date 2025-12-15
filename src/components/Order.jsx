@@ -11,7 +11,7 @@ import {
 function Profile() {
   // ✅ Google Form Link
   const GOOGLE_FORM_URL =
-    "https://docs.google.com/forms/d/e/1FAIpQLSf8-4G4112Y2c94Oqj4d__bxQSbNPEU80t-P4V8xwNf5PiInQ/viewform?usp=publish-editor";
+    "https://docs.google.com/forms/d/e/1FAIpQLSc0f6Ozec6Py8zKFbEJ39C8AHMbk0efBqk0tB-gzPi0HjF0oA/viewform?usp=publish-editor";
 
   // Loan Types
   const loanTypes = [
@@ -153,4 +153,5 @@ function Profile() {
 }
 
 export default Profile;
+
 
