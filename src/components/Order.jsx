@@ -20,7 +20,7 @@ function Profile() {
       name: "Personal Loan",
       icon: <FaUser className="text-3xl" />,
       amount: "Up to ₹25,00,000",
-      interest: "11.5% p.a.",
+      interest: "8% p.a.",
       tenure: "Up to 5 years",
       description:
         "For all your personal needs - travel, medical, wedding, or any emergency",
@@ -30,7 +30,7 @@ function Profile() {
       name: "Home Loan",
       icon: <FaHome className="text-3xl" />,
       amount: "Up to ₹50,00,000",
-      interest: "8.5% p.a.",
+      interest: "6.5% p.a.",
       tenure: "Up to 20 years",
       description:
         "Buy your dream home with flexible repayment options",
@@ -40,7 +40,7 @@ function Profile() {
       name: "Vehicle Loan",
       icon: <FaCar className="text-3xl" />,
       amount: "Up to ₹20,00,000",
-      interest: "9.5% p.a.",
+      interest: "5.5% p.a.",
       tenure: "Up to 7 years",
       description:
         "Get your dream car or bike with easy EMI options",
@@ -50,7 +50,7 @@ function Profile() {
       name: "Business Loan",
       icon: <FaBusinessTime className="text-3xl" />,
       amount: "Up to ₹1,00,00,000",
-      interest: "12.5% p.a.",
+      interest: "8.5% p.a.",
       tenure: "Up to 10 years",
       description:
         "Expand your business with customized loan solutions",
@@ -60,7 +60,7 @@ function Profile() {
       name: "Education Loan",
       icon: <FaGraduationCap className="text-3xl" />,
       amount: "Up to ₹25,00,000",
-      interest: "10.5% p.a.",
+      interest: "4% p.a.",
       tenure: "Up to 15 years",
       description:
         "Invest in your education with moratorium period",
@@ -153,6 +153,7 @@ function Profile() {
 }
 
 export default Profile;
+
 
 
 
