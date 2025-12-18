@@ -19,7 +19,7 @@ function Profile() {
       id: "personal",
       name: "Personal Loan",
       icon: <FaUser className="text-3xl" />,
-      amount: "Up to ₹5,00,000",
+      amount: "Up to ₹25,00,000",
       interest: "11.5% p.a.",
       tenure: "Up to 5 years",
       description:
@@ -69,7 +69,7 @@ function Profile() {
       id: "credit-card",
       name: "Credit Card",
       icon: <FaCreditCard className="text-3xl" />,
-      amount: "Up to ₹5,00,000",
+      amount: "Up to ₹15,00,000",
       interest: "3.5% per month",
       tenure: "Flexible",
       description:
@@ -153,5 +153,6 @@ function Profile() {
 }
 
 export default Profile;
+
 
 
