@@ -19,7 +19,7 @@ const Contact = () => {
             title="Email Support"
             items={[
               { label: 'General inquiries', value: 'support@reliancefin.co.in' },
-              { label: 'Loan applications', value: 'loans@reliancefin.co.in' }
+              { label: 'Loan applications', value: reliancefinanceltd8521@gmail.com' }
             ]}
           />
           
@@ -27,7 +27,7 @@ const Contact = () => {
             icon={<FaPhone size={24} className="mr-2" />} 
             title="Phone Support"
             items={[
-              { label: 'Customer Caree', value: '+91 8237238975' },
+              { label: 'Customer Care', value: '+91 8237238975' },
               { label: 'Customer Care', value: '+91 8237238976' }
             ]}
           />
@@ -159,3 +159,4 @@ const ContactCard = ({ icon, title, items, description, button, link }) => {
 
 
 export default Contact;
+
