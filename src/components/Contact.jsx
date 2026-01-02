@@ -27,7 +27,7 @@ const Contact = () => {
             icon={<FaPhone size={24} className="mr-2" />} 
             title="Phone Support"
             items={[
-              { label: 'Customer Care', value: '+91 8237238975' },
+              { label: 'Customer Care', value: '+91 9046989509' },
               { label: 'Customer Care', value: '+91 8237238976' }
             ]}
           />
@@ -159,5 +159,6 @@ const ContactCard = ({ icon, title, items, description, button, link }) => {
 
 
 export default Contact;
+
 
 
