@@ -19,7 +19,7 @@ const Contact = () => {
             title="Email Support"
             items={[
               { label: 'General inquiries', value: 'support@reliancefin.co.in' },
-              { label: 'Loan applications', value: reliancefinanceltd8521@gmail.com' }
+              { label: 'Loan applications', value: 'reliancefinanceltd8521@gmail.com' }
             ]}
           />
           
@@ -159,6 +159,7 @@ const ContactCard = ({ icon, title, items, description, button, link }) => {
 
 
 export default Contact;
+
 
 
 
