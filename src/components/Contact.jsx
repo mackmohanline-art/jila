@@ -27,8 +27,8 @@ const Contact = () => {
             icon={<FaPhone size={24} className="mr-2" />} 
             title="Phone Support"
             items={[
-              { label: 'Customer Care', value: '+91 9046989509' },
-              { label: 'Customer Care', value: '+91 8237238976' }
+              { label: 'Customer Care', value: '+91 8318769744' },
+              { label: 'Customer Care', value: '+91 8274838491' }
             ]}
           />
           
@@ -37,7 +37,7 @@ const Contact = () => {
             title="Live Chat"
             description="Available 24/7 for instant loan support"
             button="Start Live Chat"
-            link="https://wa.me/918237238976"  // WhatsApp link for Reliance Finance
+            link="https://wa.me/918274838491"  // WhatsApp link for Reliance Finance
           />
         </div>
 
@@ -159,6 +159,7 @@ const ContactCard = ({ icon, title, items, description, button, link }) => {
 
 
 export default Contact;
+
 
 
 
